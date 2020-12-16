@@ -8,9 +8,9 @@ namespace Lab5
     {
         int[] _array;
 
-        public Array(int i)
+        public Array(int n)
         {
-            _array = new int[i];
+            _array = new int[n];
         }
 
         public void AddElement(int k)
